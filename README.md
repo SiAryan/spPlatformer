@@ -14,5 +14,9 @@ W,A,S,D to move around the player sphere. press SPACE to jump (it has a refresh 
 Gameplay screenshots
 
 ![](sc3.PNG)
+
+
 ![](sc2.PNG)
 
+
+![](sc3.PNG)
