@@ -19,4 +19,4 @@ Gameplay screenshots
 ![](sc2.PNG)
 
 
-![](sc3.PNG)
+![](sc1.PNG)
