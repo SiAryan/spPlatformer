@@ -9,7 +9,7 @@ HOW TO PLAY :
 3. goto -> project (window) -> assets (folder) -> SampleScene (double click to load)
 4. play the SampleScene, window will go full screen
 
-W,A,S,D to move around the player sphere. press SPACE to jump (it has a refresh so be patient when chanign platforms)
+W,A,S,D to move around the player sphere. press SPACE to jump (it has a refresh so be patient when changing platforms)
 
 Gameplay screenshots
 
